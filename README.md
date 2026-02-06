@@ -15,13 +15,13 @@ authentication, dashboards, and user management workflows.
 ### Login Page
 ![Main  Page](screenshots/MP.png)
 ### Customer Login Page
-![Customer Login Page](screenshots/Customer Login Page.png)
+![Customer Login Page](screenshots/CLP.png)
 ### Customer Verification page
-![Customer Verification page](screenshots/Customer Verification page.png)
+![Customer Verification page](screenshots/CVP.png)
 ### Owner Login Page
-![Owner Login Page](screenshots/Owner Login Page.png)
+![Owner Login Page](screenshots/OLP.png)
 ### Admin Dashboard
-![Admin Dashboard](screenshots/Owner Dashboard.png)
+![Admin Dashboard](screenshots/OD.png)
 ## Tech Stack
 - React / Next.js (TypeScript)
 - Node.js
