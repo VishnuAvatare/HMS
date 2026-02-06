@@ -10,6 +10,18 @@ authentication, dashboards, and user management workflows.
 - Modular TSX components
 - Local development server
 
+## Screenshots
+
+### Login Page
+![Main  Page](screenshots/Main Page.png)
+### Customer Login Page
+![Customer Login Page](screenshots/Customer Login Page.png)
+### Customer Verification page
+![Customer Verification page](screenshots/Customer Verification page.png)
+### Owner Login Page
+![Owner Login Page](screenshots/Owner Login Page.png)
+### Admin Dashboard
+![Admin Dashboard](screenshots/Owner Dashboard.png)
 ## Tech Stack
 - React / Next.js (TypeScript)
 - Node.js
