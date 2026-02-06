@@ -13,7 +13,7 @@ authentication, dashboards, and user management workflows.
 ## Screenshots
 
 ### Login Page
-![Main  Page](screenshots/Main Page.png)
+![Main  Page](screenshots/MP.png)
 ### Customer Login Page
 ![Customer Login Page](screenshots/Customer Login Page.png)
 ### Customer Verification page
