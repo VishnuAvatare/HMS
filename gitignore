@@ -1,21 +1,12 @@
-# Dependencies
 node_modules/
-
-# Builds
 .next/
 dist/
 build/
 
-# Environment variables
 .env
 .env.local
 .env.production
 
-# Logs
-npm-debug.log*
-yarn-error.log*
-
-# OS / Editor
 .DS_Store
 .vscode/
 .idea/
